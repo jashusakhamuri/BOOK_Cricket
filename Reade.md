@@ -1,4 +1,4 @@
-# 🏏 Howzat — Multi-User Cricket Game with Leaderboard
+# 🏏 BOOK_cricket — Multi-User Cricket Game with Leaderboard
 
 A browser-based cricket simulation built with vanilla **HTML, CSS, and JavaScript**. Multiple users can create accounts, play a turn-based 6-ball innings, and compete on a shared leaderboard — all without a backend server.
 
